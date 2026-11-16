@@ -1,0 +1,8 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/home/sbau/bacterial_wgs/nanopore_aeromonas/05_downstream/nanopore_assembly.fasta	contig_1	655348	656562	+	FloR_4	1-1215/1215	===============	0/0	100.00	99.83	resfinder	CP136914	FloR	Chloramphenicol;Florfenicol
+/home/sbau/bacterial_wgs/nanopore_aeromonas/05_downstream/nanopore_assembly.fasta	contig_1	657162	658436	-	tet(A)_6	1-1275/1275	===============	0/0	100.00	100.00	resfinder	AF534183	tet(A)	Doxycycline;Tetracycline
+/home/sbau/bacterial_wgs/nanopore_aeromonas/05_downstream/nanopore_assembly.fasta	contig_1	659697	660533	-	aph(6)-Id_1	1-837/837	===============	0/0	100.00	100.00	resfinder	M28829	aph(6)-Id	Streptomycin
+/home/sbau/bacterial_wgs/nanopore_aeromonas/05_downstream/nanopore_assembly.fasta	contig_1	660533	661336	-	aph(3'')-Ib_5	1-804/804	===============	0/0	100.00	100.00	resfinder	AF321551	aph(3'')-Ib	Streptomycin
+/home/sbau/bacterial_wgs/nanopore_aeromonas/05_downstream/nanopore_assembly.fasta	contig_1	661397	662212	-	sul2_2	1-816/816	===============	0/0	100.00	100.00	resfinder	AY034138	sul2	Sulfamethoxazole
+/home/sbau/bacterial_wgs/nanopore_aeromonas/05_downstream/nanopore_assembly.fasta	contig_1	750970	751734	+	cphA1_1	1-765/765	===============	0/0	100.00	94.64	resfinder	AY261379	cphA1	
+/home/sbau/bacterial_wgs/nanopore_aeromonas/05_downstream/nanopore_assembly.fasta	contig_1	5238089	5238883	-	ampH_1	1-795/795	===============	0/0	100.00	98.36	resfinder	AJ276031	ampH	Amoxicillin;Ampicillin

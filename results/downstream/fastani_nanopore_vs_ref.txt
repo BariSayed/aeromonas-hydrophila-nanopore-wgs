@@ -1,0 +1,1 @@
+/home/sbau/bacterial_wgs/nanopore_aeromonas/05_downstream/nanopore_assembly.fasta	/home/sbau/bacterial_wgs/reference_genomes/ani_ref/Ahydrophila_ATCC7966.fna	97.0247	1463	1809
