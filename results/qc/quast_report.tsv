@@ -1,0 +1,23 @@
+Assembly	aeromonas_nanopore-flye-medaka_polished_genome
+# contigs (>= 0 bp)	4
+# contigs (>= 1000 bp)	4
+# contigs (>= 5000 bp)	4
+# contigs (>= 10000 bp)	4
+# contigs (>= 25000 bp)	3
+# contigs (>= 50000 bp)	1
+Total length (>= 0 bp)	5431448
+Total length (>= 1000 bp)	5431448
+Total length (>= 5000 bp)	5431448
+Total length (>= 10000 bp)	5431448
+Total length (>= 25000 bp)	5412853
+Total length (>= 50000 bp)	5332215
+# contigs	4
+Largest contig	5332215
+Total length	5431448
+GC (%)	60.26
+N50	5332215
+N90	5332215
+auN	5235459.9
+L50	1
+L90	1
+# N's per 100 kbp	0.00
